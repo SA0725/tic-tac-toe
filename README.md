@@ -1,4 +1,5 @@
 # tic-tac-toe
+A multiplayer Tic Tac Toe game built with Vue.js
 
 ## Project setup
 ```
